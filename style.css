@@ -1,0 +1,47 @@
+*{
+    font-family: 'Nunito', sans-serif;
+}
+.container{
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    margin-top: 80px;
+    /* border: 1px solid black; */
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 30px;
+   
+}
+h1{
+    color: coral;
+}
+ 
+table{
+    margin: auto;
+     
+}
+input{
+    font-size: 25px;
+    width: 246px;
+    height: 50px;
+    outline: none;
+    border: 2px solid orangered;
+    border-radius: 30px;
+    background-color: rgba(250, 237, 220, 0.185);
+    text-align: center;
+}
+button{
+    font-size: 30px;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    border: none;
+    margin: 10px;
+    transition: 0.3s;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 5px 5px -2px;
+}
+button:hover{
+    background-color: rgba(168, 225, 243, 0.788);
+   
+
+}
+ 
